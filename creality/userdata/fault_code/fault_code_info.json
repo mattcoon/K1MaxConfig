@@ -1,0 +1,102 @@
+{
+  "list":[
+    {
+      "time":1735610462,
+      "code":3000,
+      "error":500,
+      "msg":"// Klipper state: Disconnect",
+      "value":""
+    },
+    {
+      "time":1735446669,
+      "code":3000,
+      "error":500,
+      "msg":"// Klipper state: Disconnect",
+      "value":""
+    },
+    {
+      "time":1735394516,
+      "code":2095,
+      "error":800,
+      "msg":"Must home axis first: 296.500 153.000 149.000 [111372.186]",
+      "value":"\"Must home axis first: 296.500 153.000 149.000 [111372.186]\""
+    },
+    {
+      "time":1735361508,
+      "code":3000,
+      "error":500,
+      "msg":"// Klipper state: Disconnect",
+      "value":""
+    },
+    {
+      "time":1735361503,
+      "code":2001,
+      "error":100,
+      "msg":"Shutdown due to webhooks request\nOnce the underlying issue is corrected, use the\n'FIRMWARE_RESTART' command to reset the firmware, reload the\nconfig, and restart the host software.\nPrinter is shutdown\n",
+      "value":""
+    },
+    {
+      "time":1735360791,
+      "code":3000,
+      "error":500,
+      "msg":"// Klipper state: Disconnect",
+      "value":""
+    },
+    {
+      "time":1735340693,
+      "code":2095,
+      "error":800,
+      "msg":"Must home axis first: 296.500 154.000 150.000 [27580.268]",
+      "value":"\"Must home axis first: 296.500 154.000 150.000 [27580.268]\""
+    },
+    {
+      "time":1735320875,
+      "code":3000,
+      "error":500,
+      "msg":"// Klipper state: Disconnect",
+      "value":""
+    },
+    {
+      "time":1735319648,
+      "code":2001,
+      "error":100,
+      "msg":"Shutdown due to webhooks request\nOnce the underlying issue is corrected, use the\n'FIRMWARE_RESTART' command to reset the firmware, reload the\nconfig, and restart the host software.\nPrinter is shutdown\n",
+      "value":""
+    },
+    {
+      "time":1735319373,
+      "code":3000,
+      "error":500,
+      "msg":"// Klipper state: Disconnect",
+      "value":""
+    },
+    {
+      "time":1735317056,
+      "code":2095,
+      "error":800,
+      "msg":"Must home axis first: 5.000 5.000 8.000 [0.000]",
+      "value":"\"Must home axis first: 5.000 5.000 8.000 [0.000]\""
+    },
+    {
+      "time":1735317032,
+      "code":2095,
+      "error":800,
+      "msg":"Must home axis first: 296.500 9.000 0.000 [0.000]",
+      "value":"\"Must home axis first: 296.500 9.000 0.000 [0.000]\""
+    },
+    {
+      "time":1735317030,
+      "code":2095,
+      "error":800,
+      "msg":"Must home axis first: 296.500 9.000 0.000 [0.000]",
+      "value":"\"Must home axis first: 296.500 9.000 0.000 [0.000]\""
+    },
+    {
+      "time":1735317006,
+      "code":2095,
+      "error":800,
+      "msg":"Must home axis first: -1.000 0.000 0.000 [0.000]",
+      "value":"\"Must home axis first: -1.000 0.000 0.000 [0.000]\""
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "device_info":{
+    "device_sn":"17238328055AEC",
+    "device_mac":"FCEE28055AEC",
+    "model":1004,
+    "model_str":"CR-K1 Max",
+    "bed_length":220,
+    "bed_width":220,
+    "bed_hight":270,
+    "ui_direction":3,
+    "z_direction":1
+  },
+  "user_info":{
+    "swap_way":1,
+    "deploy_setting":2,
+    "customer":0,
+    "language":1,
+    "sound_size":10,
+    "sound_sw":1,
+    "sounde_ffect":1,
+    "light_sw":1,
+    "light_value":100,
+    "wifi_sw":1,
+    "theme_mode":1,
+    "self_test_sw":0,
+    "screensaver":5,
+    "screen_value":60,
+    "full_screen":0,
+    "auto_power_off":0,
+    "enableselftest":0,
+    "time_zone":"UTC-05:00",
+    "server_config":1,
+    "upgrade_remind":1,
+    "server_local":2,
+    "agree_privacy":1,
+    "host_name":"K1Max-5AEC",
+    "data_collect":0
+  }
+}
