@@ -28,7 +28,7 @@
     }
   ],
   "delay_image":{
-    "switch":1,
+    "switch":0,
     "location":0,
     "frame":15,
     "interval":1,
@@ -39,15 +39,15 @@
   },
   "ai_control":{
     "aiMode":1,
-    "switch":0,
+    "switch":1,
     "detection":1,
-    "pausePrint":1,
-    "firstFloor":0,
+    "pausePrint":0,
+    "firstFloor":1,
     "pastaTime":30,
     "pastaTruth":62.5,
     "dataCollect":0,
     "sundriesTruth":62.5,
-    "flowDetect":0,
+    "flowDetect":1,
     "optimalHeight":50
   }
 }

@@ -1,4 +1,4 @@
-#!/usr/share/moonraker-env/bin/python
+#!/usr/data/moonraker/moonraker-env/bin/python
 
 import sys
 import getopt
